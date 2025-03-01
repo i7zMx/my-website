@@ -15,9 +15,7 @@
                 --shadow-color: rgba(52, 152, 219, 0.12);
                 --card-hover-shadow: rgba(52, 152, 219, 0.18);
                 --matrix-bg: #fcf3e7;             /* Light orange tint */
-      }
-        }
-        
+}
         body {
             font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
             line-height: 1.6;
