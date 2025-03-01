@@ -1,20 +1,21 @@
 :root {
-            --primary-color: #4a6fa5;
-            --secondary-color: #334e7a;
-            --background-color: #f7fafd;
-            --card-color: #ffffff;
-            --text-color: #333333;
-            --code-bg: #f8f9fc;
-            --code-border: #e0e6f0;
-            --output-bg: #f0f7ff;
-            --collapse-transition: 0.4s;
-            --accent-color: #e74c3c;
-            --light-accent: #f9ebea;
-            --gradient-start: #4a6fa5;
-            --gradient-end: #2c4366;
-            --shadow-color: rgba(74, 111, 165, 0.12);
-            --card-hover-shadow: rgba(74, 111, 165, 0.18);
-            --matrix-bg: #f0f4fa;
+                --primary-color: #3498db;         /* Bright blue */
+                --secondary-color: #9b59b6;       /* Purple */
+                --background-color: #f9f9f9;      /* Light off-white */
+                --card-color: #ffffff;            /* White */
+                --text-color: #34495e;            /* Dark slate */
+                --code-bg: #f0f7fc;               /* Light blue tint */
+                --code-border: #e1e8ed;           /* Light gray-blue */
+                --output-bg: #eafaf1;             /* Mint green tint */
+                --collapse-transition: 0.4s;
+                --accent-color: #e74c3c;          /* Red */
+                --light-accent: #fdeaea;          /* Light red tint */
+                --gradient-start: #2ecc71;        /* Green */
+                --gradient-end: #3498db;          /* Blue */
+                --shadow-color: rgba(52, 152, 219, 0.12);
+                --card-hover-shadow: rgba(52, 152, 219, 0.18);
+                --matrix-bg: #fcf3e7;             /* Light orange tint */
+      }
         }
         
         body {
